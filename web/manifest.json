@@ -1,0 +1,35 @@
+{
+    "name": "Textel Technologies",
+    "short_name": "Textel",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Textel is an ISO 9001: 2015 certified manufacturing company, enlisted with MSME/NSIC under the GSPP Scheme having expertise in consigning high-quality solutions for a few decades in Wireless Addressable Fire Alarm Systems, Wireless Nurse Call Systems & Wireless Attendant Call systems. All these products are now impaneled in GeM (Government e-marketplace) which is a dynamic, self-sustaining, and user-friendly portal for procurement by Government offices. Textel is also certified by STQC, Standard Testing, and Quality Certification by Govt of India. Textel make products provide an economical and reliable communication by reducing the operation cost compared with conventional wired display units and inter phones which attract frequent breakdown and expensive periodical maintenance.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
